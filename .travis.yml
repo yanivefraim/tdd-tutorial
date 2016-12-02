@@ -1,0 +1,5 @@
+language: node_js
+addons:
+  sauce_connect:
+    username: "yanivefraim"
+    access_key: "0daf9b7b-2be8-48ee-9077-b8be0d187e4e"
